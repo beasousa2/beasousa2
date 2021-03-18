@@ -1,6 +1,6 @@
 ## Hey, I'm Bea Sousa :v:
 
-I'm an *IT Analyst Jr* at **Zup Innovation** :zap:
+I'm an *IT Analyst Jr* 
 Graduated in 2018 from ****Analysis and Development Systems**** by *Faci Wyden*, in Brazil. 
 Nowadays I'm doing a postgraduate degree in **Distributed Software Architecture** by *PUC-Minas*. 
 
