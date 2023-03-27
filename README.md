@@ -1,8 +1,8 @@
 ## Hey, I'm Bea Sousa :v:
 
-I'm an *IT Analyst Jr* 
+I'm a *Software Developer Pleno* 
 Graduated in 2018 from ****Analysis and Development Systems**** by *Faci Wyden*, in Brazil. 
-Nowadays I'm doing a postgraduate degree in **Distributed Software Architecture** by *PUC-Minas*. 
+Nowadays I'm doing a postgraduate degree in **Distributed Software Architecture** by *PUC-Minas* and **Machine Learning Architecture** by *XP Educação*. 
 
 I'm always looking to learn more and qualify myself for any challenge.  
 In my free time, I like to play the violin :violin: , stay with my family :family: and watch series and movies :clapper: .
